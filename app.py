@@ -179,14 +179,14 @@ with st.sidebar:
             try:
                 engine = RAGEngine(api_key=api_key)
                 doc_blocks = []
-                if st.button("Build Knowledge Base", type="primary"):
-                    with st.spinner("Building KB..."):
-                         try:
-                      engine = RAGEngine(api_key=api_key)
-                         doc_blocks = []
+               if st.button("Build Knowledge Base", type="primary"):
+    with st.spinner("Building KB..."):
+        try:
+            engine = RAGEngine(api_key=api_key)
+            doc_blocks = []
 
-                if kb_source == "SISTec Built-in KB":
-                     if os.path.exists("sistec_knowledge.txt"):
+            if kb_source == "SISTec Built-in KB":
+                if os.path.exists("sistec_knowledge.txt"):
                     doc_blocks = engine.load_text_file(
                         "sistec_knowledge.txt",
                         "SISTec KB"
@@ -194,9 +194,9 @@ with st.sidebar:
                 else:
                     st.error("sistec_knowledge.txt not found!")
 
-                 else:
-                     if uploaded_files:
-                        for f in uploaded_files:
+            else:
+                if uploaded_files:
+                    for f in uploaded_files:
                         doc_blocks.extend(
                             engine.load_uploaded_file(
                                 f.read(),
@@ -206,7 +206,7 @@ with st.sidebar:
                 else:
                     st.warning("Please upload files first.")
 
-                if doc_blocks:
+            if doc_blocks:
                 stats = engine.build(
                     doc_blocks,
                     chunk_size,
