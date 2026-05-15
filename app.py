@@ -175,28 +175,39 @@ with st.sidebar:
     st.session_state.show_chunks = show_chunks
     
     if st.button("Build Knowledge Base", type="primary"):
-        with st.spinner("Building KB..."):
-            try:
-                engine = RAGEngine(api_key=api_key)
-                    doc_blocks = [];
-                    if kb_source == "SISTec Built-in KB":
-                        if os.path.exists("sistec_knowledge.txt"):
-                            doc_blocks = engine.load_text_file("sistec_knowledge.txt", "SISTec KB")
-                        else:
-                            st.error("sistec_knowledge.txt not found!")
-                    else:
-                        if uploaded_files:
-                            for f in uploaded_files:
-                                doc_blocks.extend(engine.load_uploaded_file(f.read(), f.name))
-                        else:
-                            st.warning("Please upload files first.")
-                            
-                    if doc_blocks:
-                        stats = engine.build(doc_blocks, chunk_size, overlap)
-                        st.session_state.engine = engine
-                        st.session_state.kb_stats = stats
-                except Exception as e:
-                    st.error(f"Error building KB: {e}")
+    with st.spinner("Building KB..."):
+        try:
+            engine = RAGEngine(api_key=api_key)
+
+            doc_blocks = []
+
+            if kb_source == "SISTec Built-in KB":
+                if os.path.exists("sistec_knowledge.txt"):
+                    doc_blocks = engine.load_text_file(
+                        "sistec_knowledge.txt",
+                        "SISTec KB"
+                    )
+                else:
+                    st.error("sistec_knowledge.txt not found!")
+
+            else:
+                if uploaded_files:
+                    for f in uploaded_files:
+                        doc_blocks.extend(
+                            engine.load_uploaded_file(f.read(), f.name)
+                        )
+                else:
+                    st.warning("Please upload files first.")
+
+            if doc_blocks:
+                stats = engine.build(doc_blocks, chunk_size, overlap)
+
+                st.session_state.engine = engine
+                st.session_state.kb_stats = stats
+
+        except Exception as e:
+            st.error(f"Error building KB: {e}")
+                   
             
     st.markdown("---")
     if "kb_stats" in st.session_state:
