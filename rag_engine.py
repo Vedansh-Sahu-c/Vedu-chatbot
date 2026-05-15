@@ -7,8 +7,6 @@ import google.generativeai as genai
 import faiss
 import numpy as np
 from pypdf import PdfReader
-import PyPDF2
-from io import BytesIO
 
 @dataclass
 class Chunk:
@@ -26,10 +24,7 @@ class RetrievalResult:
     query: str
 
 class RAGEngine:
-   File "/mount/src/vedu-chatbot/app.py", line 202
-              if doc_blocks:
-              ^
-SyntaxError: expected 'except' or 'finally' block def __init__(self, api_key: str = None):
+    def __init__(self, api_key: str = None):
         # Initialize Google Generative AI with the provided API key if passed
         if api_key:
             genai.configure(api_key=api_key)
