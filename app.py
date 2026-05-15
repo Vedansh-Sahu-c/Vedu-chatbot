@@ -180,7 +180,7 @@ with st.sidebar:
                 engine = RAGEngine(api_key=api_key)
                 doc_blocks = []
                 if st.button("Build Knowledge Base", type="primary"):
-    with st.spinner("Building KB..."):
+                    with st.spinner("Building KB..."):
         try:
             engine = RAGEngine(api_key=api_key)
             doc_blocks = []
