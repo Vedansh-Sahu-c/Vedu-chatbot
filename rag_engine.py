@@ -28,7 +28,7 @@ class RAGEngine:
         # Initialize Google Generative AI with the provided API key if passed
         if api_key:
             genai.configure(api_key=api_key)
-        self.embedding_model = "models/text-embedding-004"
+        self.embedding_model = "models/text-embedding-001"
         self.generation_model = "gemini-1.5-flash"
         self.index = None
         self.chunks = []
