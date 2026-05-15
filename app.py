@@ -178,7 +178,7 @@ with st.sidebar:
         with st.spinner("Building KB..."):
             try:
                 engine = RAGEngine(api_key=api_key)
-                    doc_blocks = []
+                doc_blocks = []
                     if kb_source == "SISTec Built-in KB":
                         if os.path.exists("sistec_knowledge.txt"):
                             doc_blocks = engine.load_text_file("sistec_knowledge.txt", "SISTec KB")
