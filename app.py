@@ -199,14 +199,14 @@ with st.sidebar:
                     else:
                         st.warning("Please upload files first.")
 
-            if doc_blocks:
-                stats = engine.build(doc_blocks, chunk_size, overlap)
+                if doc_blocks:
+                    stats = engine.build(doc_blocks, chunk_size, overlap)
 
-                st.session_state.engine = engine
-                st.session_state.kb_stats = stats
+                    st.session_state.engine = engine
+                    st.session_state.kb_stats = stats
 
-        except Exception as e:
-            st.error(f"Error building KB: {e}")
+            except Exception as e:
+                st.error(f"Error building KB: {e}")
                    
             
     st.markdown("---")
