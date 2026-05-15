@@ -1,0 +1,145 @@
+===========================================================================
+SISTEC GANDHI NAGAR - COMPLETE INSTITUTIONAL KNOWLEDGE BASE
+Sagar Institute of Science, Technology and Engineering
+===========================================================================
+
+--- SECTION: OVERVIEW ---
+SISTec Gandhi Nagar Campus is a premier private engineering institution located in Gandhi Nagar, Bhopal, Madhya Pradesh, India. It operates under the aegis of the Sagar Group of Institutions. The campus is situated opposite Raja Bhoj International Airport, Bhopal (M.P.) 462036.
+
+--- SECTION: LOCATION AND CONNECTIVITY ---
+Address: Opposite Raja Bhoj International Airport, Gandhi Nagar, Bhopal (M.P.) 462036
+Raja Bhoj International Airport: 2.5 km away (reachable on foot)
+Inter-State Bus Terminal (ISBT) Habibganj: 17 km away (30-minute ride)
+Bhopal Junction Railway Station: 12 km away
+Habibganj Railway Station: 18 km away
+Public transport, Ola, and Uber are easily available.
+
+--- SECTION: CONTACT DETAILS ---
+Reception: 9109975763
+Admissions Email: admissions@sistec.ac.in
+Placements Email: grouphead.crm@sistec.ac.in
+Admission and Placement Phone: 9109975760
+
+--- SECTION: RANKINGS ---
+As of 2025, SISTec Gandhi Nagar is ranked in the 260+ range for B.Tech by India Today. This ranking highlights its consistent growth in private engineering education in India.
+
+--- SECTION: ACADEMIC PROGRAMS AND INTAKE ---
+SISTec offers the following B.Tech programs:
+1. Civil Engineering - Intake: 60 seats
+2. Computer Science and Engineering (CSE) - Intake: 240 seats
+3. CSE with Artificial Intelligence and Data Science (AI and DS) - Intake: 120 seats
+4. CSE with Cyber Security - Intake: 60 seats
+5. Electrical and Electronics Engineering (EEE) - Intake: 30 seats
+6. Electronics and Communication Engineering (ECE) - Intake: 60 seats
+7. Mechanical Engineering - Intake: 60 seats
+8. Computer Science and Information Technology (CS and IT) - Intake: 60 seats
+9. BBA Management - Intake: 120 seats
+Total B.Tech intake across all programs: 690 seats.
+M.Tech Programs: Computer Science, Digital Communication, Machine Design, Structural Engineering, Thermal Power, VLSI Design.
+Management Programs: MBA and BBA offered through the Management Department.
+
+--- SECTION: ADMISSIONS ELIGIBILITY ---
+Admission to B.Tech programs requires completion of 10+2 with Physics, Chemistry, and Mathematics (PCM). Biology or Biotechnology may be accepted in some streams. Candidates must meet minimum marks criteria as specified by RGPV and the institute. University Affiliation: Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal.
+
+--- SECTION: DEPARTMENT CSE ---
+Computer Science and Engineering Department. Intake: 240 seats. Head of Department: Mr. Nargish Gupta (Assistant Professor and HOD).
+Faculty: Mr. Nargish Gupta (HOD), Dr. Mamta Sakpal (Associate Professor), Dr. Bhavana Gupta (Associate Professor), Dr. Shweta Singh (Associate Professor), Dr. Komal Tahiliani (Associate Professor), Dr. Garima Mathur (Associate Professor), Dr. Amit Dubey (Associate Professor), Dr. Pranoti Kavimandan (Associate Professor), Mr. Abhuday Tripathi, Ms. Radha Rashmi Tiwari, Mr. Priyanshu Dewal Jain, Ms. Stuti Gupta, Ms. Deepti Jain, Mr. Mayank Kurchaniya, Ms. Roli Shrivastava, Mr. Abizer Hakimuddin, Mr. Gajendra Gayakwad, Ms. Smita Verma, Ms. Ruchi Jain, Ms. Bhavna Soni, Mr. Jai Mungi, Mr. Rahul Dongarde, Ms. Akshada Kulkarni, Mr. Chandra Kumar Gupta, Mr. Amit Swami, Mr. Pankaj Savita, Ms. Shumali Gupta, Mr. Anshul Sarawagi, Ms. Simra Zeiba Mumtaz, Ms. Madhuri Walia, Mr. Dheeraj Namdev, Mr. Nitin Jain, Ms. Poornima Jeriya, Ms. Vaishali Poriya.
+
+--- SECTION: DEPARTMENT AI AND DATA SCIENCE ---
+CSE with Artificial Intelligence and Data Science. Intake: 120 seats. Head of Department: Dr. Vasima Khan (Professor and HoD).
+Faculty: Dr. Vasima Khan (HoD), Ms. Sana Maqsood Khan, Mr. Ashutosh Kumar Rai, Ms. Anjula Shukla, Ms. Neha Ghosh, Mr. Rajnish Kumar Rocky, Ms. Priya Tiwari, Mr. Deepesh Kumar Tiwari, Ms. Shilpi Jain, Mr. Sachin Malviya.
+About the program: Teaches machine learning, analytics, and deep learning. Ideal for students interested in coding, probability, statistics, and algorithms. According to Gartner 2019, AI applications grew by 270% between 2015 and 2019. World Economic Forum says automation will create 58 million net new jobs. AI/ML job requirements will grow by 71% in 5 years per Skills-of-Mass-Disruption Report. Employers pay average premium of $14,175 for AI/ML candidates.
+
+--- SECTION: DEPARTMENT CYBER SECURITY ---
+CSE with Cyber Security. Intake: 60 seats. Head of Department: Dr. Nikhlesh Pathik (Associate Professor and HoD).
+Faculty: Dr. Nikhlesh Pathik (HoD), Mr. Rahul Jain, Ms. Varsha Sadhwani, Ms. Aastha Sharma, Ms. Priyanka Jain, Ms. Shivani Saxena.
+Cyber security is among the fastest growing sectors in India. Salary range: INR 3 Lac to INR 21 Lac per year. Average salary: INR 7 Lac per year. Coding is not mandatory at entry-level but required for mid and upper-level positions. In-depth networking knowledge is essential.
+Job Profiles: Network Security Engineer, Cyber Security Analyst, Security Architect, Cyber Security Manager, CISO, Ethical Hacker, Incident Manager, Cyber Forensic Expert, Cryptographer, Cloud Security Engineer, Application Security Engineer.
+Top Recruiters: Deloitte, TCS, Infosys, Cognizant, PwC, Wipro, EY, KPMG, VMware, Accenture.
+
+--- SECTION: DEPARTMENT EEE ---
+Electrical and Electronics Engineering. Intake: 30 seats.
+Faculty: Dr. Sudeshna Ghosh (Professor), Dr. Leena Daniel (Associate Professor), Dr. Ashish K. Singhal (Associate Professor), Mr. Vivek Saxena, Mr. Satyendra Prawasi, Mr. Rakesh Dangi, Mr. Ankit Chourasiya, Ms. Shadma Khan, Ms. Pratima Gangwar, Ms. Khushboo Dhakde, Ms. Reena Singh, Mr. Anurag Shrivastava, Mr. Sourabh Pal, Ms. Aakansha Jain, Mr. Kaushal Nayak.
+Student Projects: 3-D Holographic Display, Advertisement Drone, Astro Walking Talking Robot, Automatic Hand Sanitizer Machine, Blind Stick, IoT Home Automation, LED Display Board, Multi Control Smart Wheelchair, PLC Automation Kit, Quadcopter Drone, Self Sufficient Smart City, Train Accident Preventor, Weather Monitoring System.
+
+--- SECTION: DEPARTMENT ECE ---
+Electronics and Communication Engineering. Intake: 60 seats. Head of Department: Mr. Rahul Shrivastava (Assistant Professor and HOD).
+Faculty: Mr. Rahul Shrivastava (HOD), Dr. Pramod Kumar Patel (Professor), Dr. Sachin Kalraiya (Associate Professor), Ms. Tripti Parashar Joshi, Md. Abdullah, Ms. Deepa Gianchandani, Mr. Sharad Mohan Shrivastava, Ms. Tejaswini Chetty, Mr. Siddharth Singh Parihar, Ms. Shilpi Saxena, Mr. Raju Malviya, Mr. Anoop Tiwari, Ms. Deepti Malviya, Ms. Meha Shrivastava.
+
+--- SECTION: DEPARTMENT MECHANICAL ---
+Mechanical Engineering. Intake: 60 seats. Head of Department: Dr. Ravishanker V Choudri (Professor and HOD).
+Faculty: Dr. Ravishanker V Choudri (HOD), Dr. Sanjay Kumar Singh (Professor), Dr. Sanjay Chhalotre (Professor), Dr. Ruchin Kacker (Associate Professor), Mr. Nitin Malviya, Mr. Vinay Sen, Mr. Mousam Sharma, Mr. Pawan Kumar Yadav, Mr. Kuldeep Namdev, Mr. Nitin Kumar Sahu, Mr. Mukesh Sahu, Ms. Rupali Choudhary, Mr. Nandan Kumar, Mr. Chetan Prakash Soni, Mr. Nagmani Upadhyay, Mr. Basant Kumar, Mr. Gautam Govind, Mr. Satyanarayan Kumar Sharma, Mr. Sandeep Kumar Singh, Mr. Harsh Vardhan Shrivastava, Mr. Nishank Singh, Mr. Ashish Parkhe, Mr. Narendra Ahirwar.
+
+--- SECTION: DEPARTMENT CSIT ---
+Computer Science and Information Technology. Intake: 60 seats.
+Faculty: Dr. Nikhlesh Pathik (Associate Professor), Ms. Priyanka Singhai, Mr. Kuldeep Chourasia, Mr. Abdullah Dar.
+Salary range: INR 3 LPA to INR 20+ LPA. Average starting salary: INR 4 to 8 LPA.
+Highest paying roles: Software Developer, Data Scientist, Cloud Engineer, AI/ML Engineer, DevOps Engineer, Cyber Security Specialist, Solution Architect.
+Top Recruiters: TCS, Infosys, Wipro, Cognizant, Accenture, Deloitte, Capgemini, HCL Technologies, IBM, Tech Mahindra.
+
+--- SECTION: DEPARTMENT CIVIL ---
+Civil Engineering. Intake: 60 seats.
+
+--- SECTION: PLACEMENTS AND TRAINING ---
+SISTec has a dedicated Training and Placement Cell (T and P Cell) that prepares students for campus placements. Training modules are called Kaizen. Kaizen includes: Mock Interviews, Technical Workshops, Communication and Soft Skills Training, Aptitude and Reasoning Sessions, Resume Building. SISTec has signed MoUs with Smartbridge Educational Services and Cybrom Technology for practical industry-aligned learning.
+
+--- SECTION: SWIMMING POOL ---
+SISTec is the ONLY private engineering college in Bhopal with a six-lane state-of-the-art swimming pool. The pool has all modern amenities. Swimming instructors are available round the clock. The college has hosted several state-level swimming events.
+
+--- SECTION: SPORTS GROUNDS ---
+The college has separate cricket and football grounds along with volleyball courts. Students participate in inter-institution, inter-district, and inter-division tournaments. Students represent RGPV in All India Inter-University tournaments annually. The college hosts in-house competitions and tournaments.
+
+--- SECTION: GYMNASIUM ---
+An on-site gym at SISTec is accessible round the clock. It is well-equipped to help students relieve stress and maintain fitness. More affordable than a regular gym membership.
+
+--- SECTION: HOSTEL ---
+SISTec provides separate hostel facilities for boys and girls. Hostel rooms have beds, mattresses, study tables, wardrobes, 24-hour water supply, and Wi-Fi. Resident students have evening access to library, computer labs, and sports grounds.
+
+--- SECTION: MESS ---
+The mess serves four meals daily to hostel students with calorific and nutritive balance. Can feed around 500 students at one time. Vegetarian food is served. Mess charges collected annually. Parents, guests, and day scholars can use the mess at minimal charges.
+
+--- SECTION: CANTEEN ---
+Spacious canteen surrounded by trees with outdoor seating. Serves south Indian food, north Indian delicacies, snacks, main course, and desserts. Diversified menu to suit all tastes.
+
+--- SECTION: LIBRARY ---
+Large collection of engineering and management books, e-journals, and databases. Integrated with Mastersoft LIBMAN and MOPAC mobile app. Member of DELNET, National Digital Library of India (NDL), and RGPV Consortium e-Library. Reading room capacity: 150 students. Uses barcode system and mobile app for transactions. Uninterrupted internet access for e-resources.
+
+--- SECTION: WIFI CAMPUS ---
+Entire campus including all buildings and hostels is covered with Wi-Fi 24 hours a day 7 days a week. Internet uses a 500 Mbps leased line from FiberNet. Network is safe-search filtered with security protocols. AV Rooms, Conference Halls, Auditoriums, Computer Labs equipped with high-speed internet. Users get secure login ID and password for Wi-Fi access.
+
+--- SECTION: TRANSPORT ---
+SISTec has a fleet of over 100 buses providing transport to students and staff across Bhopal. Buses cover all important routes including remote localities.
+
+--- SECTION: CONFERENCE AND AV HALLS ---
+State-of-the-art conference and meeting rooms for academic events and corporate recruitment. Every department has its own Audio-Visual Hall (AV Hall) with LCD projectors, screens, and multimedia facilities for presentations and expert lectures.
+
+--- SECTION: ATM ---
+An ATM is located just outside the main campus entrance for easy cash access without leaving campus.
+
+--- SECTION: INDUSTRIAL VISITS ---
+Industrial visits organized for students:
+1. Industrial Visit to IMD (India Meteorological Department), Bhopal - June 13, 2025
+2. Visit to IIT Indore - October 22, 2023
+3. Smart City Bhopal Visit - December 20, 2022
+4. Mind Ruby Visit - June 4, 2022
+5. Metrological Day at SISTec - March 15 and 23, 2022
+6. CRISP Bhopal Visit - February 21 and 22, 2022
+
+--- SECTION: QUICK FACTS ---
+College Full Name: Sagar Institute of Science, Technology and Engineering (SISTec).
+Campus: Gandhi Nagar Campus.
+Group: Sagar Group of Institutions.
+University: Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV).
+Location: Opposite Raja Bhoj International Airport, Gandhi Nagar, Bhopal (M.P.) 462036.
+Total B.Tech Intake: 690 students across 8 programs.
+Unique Feature: Only private engineering college in Bhopal with a 6-lane swimming pool.
+India Today B.Tech Ranking 2025: 260 plus.
+Transport Fleet: 100 plus buses across Bhopal.
+Internet Speed: 500 Mbps FiberNet leased line.
+Library Memberships: DELNET, NDL, RGPV Consortium e-Library.
+Mess Capacity: 500 students at one time.
+Library Reading Room Capacity: 150 students.
+
+===========================================================================
+END OF KNOWLEDGE BASE
+===========================================================================
